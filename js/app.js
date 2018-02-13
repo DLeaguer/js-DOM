@@ -41,7 +41,7 @@ PrinceProfile.getElementsByClassName('profile')[0].innerHTML = '"The rain sounds
 Find the div with the class name of "profile" and replace the n/a with a quote from the legend himself.*/
 
 var BruceProfile = document.getElementsByClassName('block2 col-sm-4')[1];
-BruceProfile.getElementsByClassName('profile')[0].innerHTML = '"The rain sounds so cool when it hits the barn roof And the horses wonder who U are. Thunder drowns out what the lightning sees, U feel like a movie star."';
+BruceProfile.getElementsByClassName('profile')[0].innerHTML = '"A goal is not always meant to be reached, it often serves simply as something to aim at."';
 
 /*6. Samuel L Jackson
 
